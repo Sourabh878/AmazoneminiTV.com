@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+    padding-top:80px;
+
+}
+.mp1
+{
+   width:100%;
+}
+.picture1
+{
+     width:278px; 
+     margin-left:50px;
+     border-radius:9px;
+}
+.format
+{
+    color:#fff;
+    padding-left: 60px;
+        margin-bottom: 12px;
+        font-size: 23px;
+        line-height: 1.35;
+        font-weight:500;
+}
+.cont1
+{
+    display:flex;
+
+}
+.picture1:hover
+{
+    height:200px;
+    width:350px;
+}
